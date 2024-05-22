@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 schnorrkel = "0.11.4"
+rand = "0.8"  # Check for the latest version on crates.io
